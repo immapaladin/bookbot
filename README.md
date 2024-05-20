@@ -1,3 +1,3 @@
 # bookbot
 
-This is my first Boot.dev project. 🚀
+This is my first project on Boot.dev. 🚀
